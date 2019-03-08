@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dc73f</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#4FE727</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#8dc73f</color>
+    <color name="gradStop">#c0de96</color>
+
+    <style name="theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:navigationBarColor">#008DC73F</item>
+        <item name="android:statusBarColor">#8dc73f</item>
+    </style>
+</resources>
